@@ -1,3 +1,6 @@
+![image](https://github.com/mehakbansal022/Call_Center_Analysis/assets/67435653/d2c2b47e-edef-418d-aa03-022501ea348f)
+
+
 Project Objective
 
 •	The project aims to utilize Power BI for comprehensive analysis of our call center operations. Key objectives include evaluating agent performance through metrics like speed of answer, average talk duration, and resolution rates to enhance operational efficiency and also gauge customer satisfaction using satisfaction ratings, identify trends in call topics and volume over time, and optimize resource allocation based on peak call times. 
@@ -24,5 +27,4 @@ Step-by-step Journey
 	Data Analysis
 
 	Got insights from Dashboard
-
 
